@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T14:44:21 IST" name="Suite" finished-at="2024-03-01T14:45:18 IST" duration-ms="56929">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T14:44:21 IST" name="Test-runner 2" finished-at="2024-03-01T14:45:17 IST" duration-ms="55636">
+      <class name="contacts.CreateContactsTest">
+        <test-method is-config="true" signature="bsConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:44:21 IST" name="bsConfiguration" finished-at="2024-03-01T14:44:21 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfiguration -->
+        <test-method is-config="true" signature="bcConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:44:21 IST" name="bcConfiguration" finished-at="2024-03-01T14:44:33 IST" duration-ms="11496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfiguration -->
+        <test-method is-config="true" signature="bmConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:44:33 IST" name="bmConfiguration" finished-at="2024-03-01T14:44:38 IST" duration-ms="4939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfiguration -->
+        <test-method signature="createConatactsTest()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:44:38 IST" name="createConatactsTest" finished-at="2024-03-01T14:45:10 IST" duration-ms="32677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createConatactsTest -->
+        <test-method is-config="true" signature="amConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:45:10 IST" name="amConfiguration" finished-at="2024-03-01T14:45:14 IST" duration-ms="3482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfiguration -->
+        <test-method is-config="true" signature="acConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:45:14 IST" name="acConfiguration" finished-at="2024-03-01T14:45:17 IST" duration-ms="2929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfiguration -->
+        <test-method is-config="true" signature="asConfiguration()[pri:0, instance:contacts.CreateContactsTest@33c911a1]" started-at="2024-03-01T14:45:18 IST" name="asConfiguration" finished-at="2024-03-01T14:45:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfiguration -->
+      </class> <!-- contacts.CreateContactsTest -->
+    </test> <!-- Test-runner 2 -->
+    <test started-at="2024-03-01T14:44:21 IST" name="Test-runner 1" finished-at="2024-03-01T14:45:18 IST" duration-ms="56928">
+      <class name="oganizations.CreateOrganizationTest">
+        <test-method is-config="true" signature="bcConfiguration()[pri:0, instance:oganizations.CreateOrganizationTest@279fedbd]" started-at="2024-03-01T14:44:21 IST" name="bcConfiguration" finished-at="2024-03-01T14:44:33 IST" duration-ms="12259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfiguration -->
+        <test-method is-config="true" signature="bmConfiguration()[pri:0, instance:oganizations.CreateOrganizationTest@279fedbd]" started-at="2024-03-01T14:44:33 IST" name="bmConfiguration" finished-at="2024-03-01T14:44:39 IST" duration-ms="5628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfiguration -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:oganizations.CreateOrganizationTest@279fedbd]" started-at="2024-03-01T14:44:39 IST" name="createOrganizationTest" finished-at="2024-03-01T14:45:13 IST" duration-ms="33438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="amConfiguration()[pri:0, instance:oganizations.CreateOrganizationTest@279fedbd]" started-at="2024-03-01T14:45:13 IST" name="amConfiguration" finished-at="2024-03-01T14:45:16 IST" duration-ms="3720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfiguration -->
+        <test-method is-config="true" signature="acConfiguration()[pri:0, instance:oganizations.CreateOrganizationTest@279fedbd]" started-at="2024-03-01T14:45:16 IST" name="acConfiguration" finished-at="2024-03-01T14:45:18 IST" duration-ms="1863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfiguration -->
+      </class> <!-- oganizations.CreateOrganizationTest -->
+    </test> <!-- Test-runner 1 -->
+  </suite> <!-- Suite -->
+</testng-results>
